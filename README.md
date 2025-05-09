@@ -1,5 +1,7 @@
 # 0xMax42
 
+![All time](https://img.shields.io/endpoint?url=https://waka.0xmax42.io/api/compat/shields/v1/0XMax42/interval:all_time&label=All%20time&color=blue)
+
 Ich arbeite gern mit klaren Systemen, reproduzierbaren Prozessen und transparentem Code.  
 Wenn Dinge sich nicht erklären lassen, sind sie oft nicht gut durchdacht.
 
