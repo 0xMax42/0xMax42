@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="178.188"
+            width="178.095"
             height="8"
             fill="#858585"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="178.188"
+            x="178.095"
             y="0"
-            width="64.3095"
+            width="64.4025"
             height="8"
             fill="#858585"
           />
@@ -605,7 +605,7 @@
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Yaml - 131 hrs 59 mins
+        Yaml - 132 hrs 12 mins
       </text>
     </g>
   
