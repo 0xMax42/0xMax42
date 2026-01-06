@@ -41,7 +41,7 @@ A custom Obsidian plugin for managing tasks and projects using YAML metadata, re
 
 Open an issue or follow the trail at [0xMax42.io](https://0xmax42.io).
 
-### Statistik (Since 21 Dec 2023)
+### Statistics (Since 21 Dec 2023)
 
 ![All time Stats](https://git.0xmax42.io/maxp/.profile/raw/branch/main/cards/waka.svg)
 
