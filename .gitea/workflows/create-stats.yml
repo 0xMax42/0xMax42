@@ -1,0 +1,27 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: Pranesh-2005/github-readme-stats-fast-action@v1
+        with:
+          card: wakatime
+          options: username=0XMax42&api_domain=waka.0xmax42.io&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=0xMax42&layout=compact
+          path: cards/waka.svg
+
+      - name: Commit cards
+        run: |
+          git config user.name "$CI_COMMIT_AUTHOR_NAME"
+          git config user.email "$CI_COMMIT_AUTHOR_EMAIL"
+          git add cards/*.svg
+          git commit -m "Update README cards" || echo "No changes to commit"
+          git push origin HEAD
