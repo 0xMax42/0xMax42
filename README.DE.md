@@ -1,6 +1,6 @@
 # 0xMax42
 
-![All time](https://img.shields.io/endpoint?url=https://waka.0xmax42.io/api/compat/shields/v1/0XMax42/interval:all_time&label=All%20time&color=blue)
+![All time](https://img.shields.io/endpoint?url=https://waka.0xmax42.io/api/compat/shields/v1/0XMax42/interval:all_time&label=Seit%2021.%20Dez%202023&color=blue)
 
 Ich arbeite gern mit klaren Systemen, reproduzierbaren Prozessen und transparentem Code.  
 Wenn Dinge sich nicht erklären lassen, sind sie oft nicht gut durchdacht.
@@ -43,6 +43,6 @@ Schreib mir eine Issue oder folg der Spur auf [0xMax42.io](https://0xmax42.io).
 
 ---
 
-### Statistik
+### Statistik (Seit 21. Dez 2023)
 
 ![All time Stats](https://git.0xmax42.io/maxp/.profile/raw/branch/main/cards/waka.svg)

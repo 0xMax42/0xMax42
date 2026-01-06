@@ -1,6 +1,6 @@
 # 0xMax42
 
-![All time](https://img.shields.io/endpoint?url=https://waka.0xmax42.io/api/compat/shields/v1/0XMax42/interval:all_time&label=All%20time&color=blue)
+![All time](https://img.shields.io/endpoint?url=https://waka.0xmax42.io/api/compat/shields/v1/0XMax42/interval:all_time&label=Since%2021%20Dec%202023&color=blue)
 
 I prefer working with clear systems, reproducible processes, and transparent code.  
 If something can't be explained, it's often not well thought out.
@@ -41,7 +41,7 @@ A custom Obsidian plugin for managing tasks and projects using YAML metadata, re
 
 Open an issue or follow the trail at [0xMax42.io](https://0xmax42.io).
 
-### Statistik
+### Statistik (Since 21 Dec 2023)
 
 ![All time Stats](https://git.0xmax42.io/maxp/.profile/raw/branch/main/cards/waka.svg)
 
