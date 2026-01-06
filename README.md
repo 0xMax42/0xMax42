@@ -45,4 +45,4 @@ Schreib mir eine Issue oder folg der Spur auf [0xMax42.io](https://0xmax42.io).
 
 ### Statistik
 
-![All time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=0XMax42&api_domain=waka.0xmax42.io&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=0xMax42&layout=compact)
+![All time Stats](https://git.0xmax42.io/maxp/.profile/raw/branch/main/cards/waka.svg)
