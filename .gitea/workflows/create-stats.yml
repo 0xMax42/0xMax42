@@ -14,11 +14,24 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Compose WakaTime options
+        id: waka-options
+        env:
+          RAW_OPTIONS: ${{ vars.WAKATIME_CARD_OPTIONS }}
+        run: |
+          set -euo pipefail
+          if [ -z "${RAW_OPTIONS:-}" ]; then
+            echo "value=" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          printf 'value=' >> "$GITHUB_OUTPUT"
+          echo "$RAW_OPTIONS" | paste -sd '&' - >> "$GITHUB_OUTPUT"
+
       - name: Generate stats card
         uses: Pranesh-2005/github-readme-stats-fast-action@v1
         with:
           card: wakatime
-          options: username=0XMax42&api_domain=waka.0xmax42.io&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=0xMax42&layout=compact&hide=unknown,markdown
+          options: ${{ steps.waka-options.outputs.value }}
           path: cards/waka.svg
 
       - name: Commit cards
