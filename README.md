@@ -1,48 +1,45 @@
 # 0xMax42
 
-![All time](https://img.shields.io/endpoint?url=https://waka.0xmax42.io/api/compat/shields/v1/0XMax42/interval:all_time&label=All%20time&color=blue)
+I prefer working with clear systems, reproducible processes, and transparent code.  
+If something can't be explained, it's often not well thought out.
 
-Ich arbeite gern mit klaren Systemen, reproduzierbaren Prozessen und transparentem Code.  
-Wenn Dinge sich nicht erklären lassen, sind sie oft nicht gut durchdacht.
+My focus is on:
 
-Mein Fokus liegt auf:
-
-- Flatfile-Architekturen
-- self-hosted Tools mit möglichst wenig Abhängigkeiten
-- Systemverständnis über Framework-Tricks
-- dokumentierten Workflows, die auch in zwei Jahren noch lesbar sind
+- Flatfile architectures  
+- Self-hosted tools with as few dependencies as possible  
+- Understanding systems instead of relying on framework tricks  
+- Documented workflows that are still readable two years from now
 
 ---
 
-### Projekte
+### Projects
 
 🧩 **[0xMax42.io](https://0xmax42.io)**  
-Ein technischer Blog über Architektur, Flatfiles, Gitea-Pages, eigene Tools und Dinge, die ich nicht vergessen will.
+A technical blog about architecture, flatfiles, Gitea Pages, my own tools, and things I don't want to forget.
 
 📁 **Gitea Pages Stack**  
-Ein selbst gehosteter Ersatz für GitHub Pages – mit GT-RUNNER, Traefik, ACME, Wildcard-Domains und automatischem Deployment.
+A self-hosted replacement for GitHub Pages – with GT-RUNNER, Traefik, ACME, wildcard domains, and automated deployment.
 
-📜 **Markdown-basierte Projektverwaltung**  
-Ein eigenes Obsidian-Plugin zur Verwaltung von Aufgaben und Projekten mit YAML-Metadaten, Wiederholungen und Abhängigkeiten.
+📜 **Markdown-based Project Management**  
+A custom Obsidian plugin for managing tasks and projects using YAML metadata, recurrence, and dependencies.
 
-🔧 Weitere Tools folgen.
-
----
-
-### Was du hier nicht findest
-
-- Produktmarketing
-- GitHub-Badges
-- Undurchsichtige Build-Magie
+🔧 More tools to follow.
 
 ---
 
-### Kontakt?
+### What you won’t find here
 
-Schreib mir eine Issue oder folg der Spur auf [0xMax42.io](https://0xmax42.io).
+- Product marketing  
+- GitHub badges  
+- Build magic that no one understands
 
 ---
+
+### Contact?
+
+Open an issue or follow the trail at [0xMax42.io](https://0xmax42.io).
 
 ### Statistik
 
 ![All time Stats](https://git.0xmax42.io/maxp/.profile/raw/branch/main/cards/waka.svg)
+
