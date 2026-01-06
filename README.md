@@ -20,7 +20,7 @@ My focus is on:
 A technical blog about architecture, flatfiles, Gitea Pages, my own tools, and things I don't want to forget.
 
 📁 **Gitea Pages Stack**  
-A self-hosted replacement for GitHub Pages – with GT-RUNNER, Traefik, ACME, wildcard domains, and automated deployment.
+A self-hosted replacement for GitHub Pages – with act_runner, Traefik, ACME, wildcard domains, and automated deployment.
 
 📜 **Markdown-based Project Management**  
 A custom Obsidian plugin for managing tasks and projects using YAML metadata, recurrence, and dependencies.
