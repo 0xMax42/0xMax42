@@ -672,7 +672,7 @@
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Unknown - 356 hrs 8 mins
+        Unknown - 356 hrs 9 mins
       </text>
     </g>
   
@@ -805,7 +805,7 @@
     <g transform="translate(230, 275)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Git - 4 hrs 45 mins
+        Git - 4 hrs 47 mins
       </text>
     </g>
   
@@ -819,14 +819,14 @@
     <g transform="translate(230, 300)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Css - 3 hrs 30 mins
+        Systemd - 3 hrs 31 mins
       </text>
     </g>
   
     <g transform="translate(25, 325)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Systemd - 3 hrs 29 mins
+        Css - 3 hrs 30 mins
       </text>
     </g>
   
