@@ -11,25 +11,25 @@ Abhängigkeiten sind erlaubt. Sie sollten sich nur zuerst erklären.
 
 ## Woran ich arbeite
 
-* **Deno- / TypeScript-Tooling**
+* **Deno- / TypeScript-Tooling**  
 	CLIs, APIs, Automatisierungswerkzeuge, typisierte Service-Komponenten und kleine Systeme, die explizite Struktur gegenüber Framework-Magie bevorzugen.
 
-* **Selbst gehostete Infrastruktur**
+* **Selbst gehostete Infrastruktur**  
 	Gitea, act_runner, Traefik, ACME, Container, CI/CD-Pipelines, Artefakt-Verwaltung, Deployment-Workflows und Dienste, die auch nach der Ersteinrichtung noch verständlich bleiben sollten.
 
-* **Linux-Betrieb und systemd**
+* **Linux-Betrieb und systemd**  
 	Benutzer- und Systemdienste, Timer, Sandboxing, Logging, Service-Härtung, reproduzierbare Host-Konfiguration und der gelegentliche Kampf mit der Realität an PID 1.
 
-* **Container mit klaren Betriebsgrenzen**
+* **Container mit klaren Betriebsgrenzen**  
 	Docker, wo nötig, Podman, wo möglich, rootless Setups, systemd-Integration, gehärtete Laufzeitannahmen und weniger Privilegien als „pack den Benutzer einfach in die docker-Gruppe“.
 
-* **Paketierung und reproduzierbare Builds**
+* **Paketierung und reproduzierbare Builds**  
 	Debian-Pakete, Release-Automatisierung, gepinnte Build-Umgebungen, interne Repositories, CI-Artefakte und Software, die sich erneut bauen lässt, ohne archäologische Arbeit zu erfordern.
 
-* **Dokumentations-Engineering**
+* **Dokumentations-Engineering**  
 	Markdown, Pandoc, LaTeX, PDF/A, benutzerdefinierte Templates, strukturierte technische Dokumentation und Dokumentation, die als Teil des Systems statt als dekorativer Papierkram behandelt wird.
 
-* **Flatfile- und metadatengetriebene Workflows**
+* **Flatfile- und metadatengetriebene Workflows**  
 	Dateibasierte Architekturen, YAML-/Markdown-Metadaten, Projektautomatisierung und Speicherformate, die sich immer noch mit einem Texteditor untersuchen lassen.
 
 ---
@@ -73,21 +73,21 @@ Sie ist die Steuerungsebene für menschliches Gedächtnis.
 
 ## Projekte
 
-🧩 **[0xMax42.io](https://0xmax42.io)**
+🧩 **[0xMax42.io](https://0xmax42.io)**  
 Ein technischer Blog über Architektur, Infrastruktur, Automatisierung, Flatfiles, Dokumentation, Selbsthosting und Dinge, die ich nicht später aus meinen eigenen Repositories zurückentwickeln möchte.
 
-📜 **Markdown-basierte Projektverwaltung**
+📜 **Markdown-basierte Projektverwaltung**  
 Ein benutzerdefinierter, auf Obsidian ausgerichteter Workflow zur Verwaltung von Aufgaben und Projekten mit YAML-Metadaten, Wiederholungen, Abhängigkeiten und einer langfristig lesbaren Struktur.
 
-📦 **Paketierung und Release-Automatisierung**
+📦 **Paketierung und Release-Automatisierung**  
 Debian-Paketierung, interne Repositories, CI-generierte Artefakte, changeloggetriebene Releases und Build-Pipelines, die sich mit aller Kraft dagegen wehren, nur von vagen Eingebungen betrieben zu werden.
 
-🔧 **Software patchen, statt sie zu forken**
+🔧 **Software patchen, statt sie zu forken**  
 Ich passe bestehende Anwendungen regelmäßig an meine Workflows an: benutzerdefinierte Patches, Paketierungsanpassungen, Konfigurations-Overlays, Build-Time-Modifikationen und kleine Verhaltensänderungen, die leichter zu pflegen sind, als einen dauerhaften Fork mitzutragen.
 
 Das Ziel ist meistens, nah an Upstream zu bleiben, Updates praktikabel zu halten und nur das zu ändern, was tatsächlich geändert werden muss.
 
-🧰 **Kleine Tools, CLIs und Infrastruktur-Klebstoff**
+🧰 **Kleine Tools, CLIs und Infrastruktur-Klebstoff**  
 Deno-/TypeScript- und Python-Werkzeuge für Automatisierung, Systemintegration, Dokumentation, Deployment, Backups und operative Workflows.
 
 ---

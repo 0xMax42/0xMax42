@@ -11,25 +11,25 @@ Dependencies are allowed. They should just explain themselves first.
 
 ## What I work on
 
-* **Deno / TypeScript tooling**
+* **Deno / TypeScript tooling**  
   CLIs, APIs, automation tools, typed service components, and small systems that prefer explicit structure over framework magic.
 
-* **Self-hosted infrastructure**
+* **Self-hosted infrastructure**  
   Gitea, act_runner, Traefik, ACME, containers, CI/CD pipelines, artifact handling, deployment workflows, and services that should remain understandable after the initial setup.
 
-* **Linux operations and systemd**
+* **Linux operations and systemd**  
   User and system services, timers, sandboxing, logging, service hardening, reproducible host configuration, and the occasional fight with reality at PID 1.
 
-* **Containers with operational boundaries**
+* **Containers with operational boundaries**  
   Docker where needed, Podman where possible, rootless setups, systemd integration, hardened runtime assumptions, and fewer privileges than “just add the user to the docker group”.
 
-* **Packaging and reproducible builds**
+* **Packaging and reproducible builds**  
   Debian packages, release automation, pinned build environments, internal repositories, CI artifacts, and software that can be built again without archaeological work.
 
-* **Documentation engineering**
+* **Documentation engineering**  
   Markdown, Pandoc, LaTeX, PDF/A, custom templates, structured technical writing, and documentation that is treated as part of the system rather than decorative paperwork.
 
-* **Flatfile and metadata-driven workflows**
+* **Flatfile and metadata-driven workflows**  
   File-based architectures, YAML/Markdown metadata, project automation, and storage formats that can still be inspected with a text editor.
 
 ---
@@ -73,21 +73,21 @@ It is the control plane for human memory.
 
 ## Projects
 
-🧩 **[0xMax42.io](https://0xmax42.io)**
+🧩 **[0xMax42.io](https://0xmax42.io)**  
 A technical blog about architecture, infrastructure, automation, flatfiles, documentation, self-hosting, and things I do not want to reverse-engineer from my own repositories later.
 
-📜 **Markdown-based Project Management**
+📜 **Markdown-based Project Management**  
 A custom Obsidian-oriented workflow for managing tasks and projects with YAML metadata, recurrence, dependencies, and readable long-term structure.
 
-📦 **Packaging and release automation**
+📦 **Packaging and release automation**  
 Debian packaging, internal repositories, CI-generated artifacts, changelog-driven releases, and build pipelines that try very hard not to be powered by vibes.
 
-🔧 **Patching software instead of forking it**
+🔧 **Patching software instead of forking it**  
 I regularly adapt existing applications to fit my workflows: custom patches, packaging adjustments, configuration overlays, build-time modifications, and small behavioral changes that are easier to maintain than carrying a permanent fork.
 
 The goal is usually to stay close to upstream, keep updates practical, and only change what actually needs changing.
 
-🧰 **Small tools, CLIs, and infrastructure glue**
+🧰 **Small tools, CLIs, and infrastructure glue**  
 Deno/TypeScript and Python tools for automation, system integration, documentation, deployment, backups, and operational workflows.
 
 ---
