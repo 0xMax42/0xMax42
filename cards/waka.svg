@@ -787,7 +787,7 @@
     <g transform="translate(230, 225)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Podman - 9 hrs 33 mins
+        Podman - 9 hrs 32 mins
       </text>
     </g>
   
