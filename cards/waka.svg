@@ -658,7 +658,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Typescript - 439 hrs 57 mins
+        Typescript - 440 hrs 7 mins
       </text>
     </g>
   
@@ -763,7 +763,7 @@
     <g transform="translate(230, 200)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Diff - 10 hrs 37 mins
+        Diff - 10 hrs 40 mins
       </text>
     </g>
   
