@@ -679,14 +679,14 @@
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Unknown - 403 hrs 33 mins
+        Unknown - 403 hrs 31 mins
       </text>
     </g>
   
     <g transform="translate(25, 75)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Yaml - 180 hrs 39 mins
+        Yaml - 180 hrs 40 mins
       </text>
     </g>
   
