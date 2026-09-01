@@ -251,7 +251,7 @@
             y="0"
             width="3.0225"
             height="8"
-            fill="#858585"
+            fill="#00ADD8"
           />
         
           <rect
@@ -261,7 +261,7 @@
             y="0"
             width="3.0225"
             height="8"
-            fill="#00ADD8"
+            fill="#858585"
           />
         
           <rect
@@ -672,7 +672,7 @@
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Unknown - 410 hrs 3 mins
+        Unknown - 410 hrs 5 mins
       </text>
     </g>
   
@@ -686,7 +686,7 @@
     <g transform="translate(25, 75)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Yaml - 184 hrs 58 mins
+        Yaml - 184 hrs 59 mins
       </text>
     </g>
   
@@ -700,7 +700,7 @@
     <g transform="translate(25, 100)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Bash - 116 hrs 54 mins
+        Bash - 116 hrs 55 mins
       </text>
     </g>
   
@@ -740,16 +740,16 @@
     </g>
   
     <g transform="translate(25, 175)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <circle cx="5" cy="6" r="5" fill="#00ADD8" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Toml - 17 hrs 16 mins
+        Go - 17 hrs 16 mins
       </text>
     </g>
   
     <g transform="translate(230, 175)">
-      <circle cx="5" cy="6" r="5" fill="#00ADD8" />
+      <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Go - 17 hrs 13 mins
+        Toml - 17 hrs 16 mins
       </text>
     </g>
   
@@ -791,7 +791,7 @@
     <g transform="translate(230, 250)">
       <circle cx="5" cy="6" r="5" fill="#555555" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C - 8 hrs 8 mins
+        C - 8 hrs 6 mins
       </text>
     </g>
   
